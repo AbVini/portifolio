@@ -21,3 +21,6 @@ O projeto trata-se de um site onde aplicamos e aprendemos a respeito das TAGS se
 ## 📁 Acesso ao projeto
 
   Basta apenas abrir o arquivo `index.html` no seu navegador que tera acesso ao codigo do projeto 
+
+## 🛠️ Abrir e rodar o projeto
+https://portifolio-tawny-gamma.vercel.app
